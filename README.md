@@ -42,7 +42,7 @@ This project is a **Sales Analytics System** built in Python. It performs the fo
 1. Clone the repository:
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/DipenShetty/sales-analytics-system
 cd sales-analytics-system
 
 2. Install dependencies:
